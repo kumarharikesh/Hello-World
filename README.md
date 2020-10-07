@@ -7,8 +7,4 @@ I was thinking yesterday, how pojects were managed here.
 But now I Have got the ways to handle the projects.
 Enough for today, see ya again.
 
----
-
 [![Hhhiiii](https://github.com/kumarharikesh/Hello-World/blob/master/helloWorld.jpg)](#)
-
----
